@@ -1,9 +1,12 @@
-namespace TodoApi.Models
+using System;
+
+namespace TodoApi.Models 
 {
-    public class TodoItem
+    public class TodoItem : IBaseEntity 
     {
-        public long Id { get; set; }
-        public string Name { get; set; }
+        public TodoItem () { }
+        public String Id { get; set; }
+        public String Name { get; set; }
         public bool IsComplete { get; set; }
     }
 }
