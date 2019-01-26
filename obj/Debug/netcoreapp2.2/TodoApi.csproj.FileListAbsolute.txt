@@ -1,0 +1,14 @@
+/Users/yuta/Workspace/jbs/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csprojAssemblyReference.cache
+/Users/yuta/Workspace/jbs/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csproj.CoreCompileInputs.cache
+/Users/yuta/Workspace/jbs/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cache
+/Users/yuta/Workspace/jbs/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cs
+/Users/yuta/Workspace/jbs/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfoInputs.cache
+/Users/yuta/Workspace/jbs/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfo.cs
+/Users/yuta/Workspace/jbs/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.deps.json
+/Users/yuta/Workspace/jbs/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.json
+/Users/yuta/Workspace/jbs/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.dev.json
+/Users/yuta/Workspace/jbs/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.dll
+/Users/yuta/Workspace/jbs/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.pdb
+/Users/yuta/Workspace/jbs/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
+/Users/yuta/Workspace/jbs/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.dll
+/Users/yuta/Workspace/jbs/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.pdb
