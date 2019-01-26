@@ -1,0 +1,16 @@
+version: '3'
+services:
+    db:
+      build: ./Mssql
+      ports:
+        - 1433:1433
+      environment:
+        - ACCEPT_EULA=Y
+        - SA_PASSWORD=Test@1234
+        - MSSQL_PID=Express
+        - MSSQL_LCID=1041
+        - MSSQL_COLLATION=Japanese_CI_AS
+      volumes:
+        - ./Mssql/SQL:/init-data
+        - ./Mssql/start-up.sh:/start-up.sh
+      command: "sh -c '/start-up.sh & /opt/mssql/bin/sqlservr;'"
